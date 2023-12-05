@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1076925217348",
+    "project_id": "cookingbook-6d71f",
+    "storage_bucket": "cookingbook-6d71f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076925217348:android:a73b30f6d7eb7430335a11",
+        "android_client_info": {
+          "package_name": "com.cooking_booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076925217348-ckp1emgj6tk329qec1eluinhf1fslcaf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cooking_booking",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1076925217348-c8p50v8oeo7gmcokdh7ned5ukvk1kq4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFI6lFPjHTJxITEPsnBCqlJpTeiVAJovw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076925217348-c8p50v8oeo7gmcokdh7ned5ukvk1kq4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
